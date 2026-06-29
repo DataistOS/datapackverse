@@ -5,6 +5,13 @@ Datapackverse is the **Single Source of Truth (SSOT)** for all software metadata
 
 ---
 
+### Quick Start
+To synchronize the entire ecosystem registry and generate the latest status documentation, run:
+
+```bash
+python3 generate_checklist.py
+```
+
 ### Key Features
 * **Central Registry:** A unified data source for all official tools and software packages.
 * **Smart Version Monitoring:** Real-time tracking of releases, allowing clients to identify and apply updates instantly.

@@ -11,7 +11,7 @@ Tool Status Checklist
      - Logo Status
      - Progress
    * - adm
-     - 0.0.1
+     - echo "0.1.0-alpha" > VERSION
      - ✅
      - ✅
      - 5%
@@ -221,10 +221,10 @@ Tool Status Checklist
      - ✅
      - 5%
    * - upupa
-     - 0.0.1
+     - 0.1.0
      - ✅
      - ✅
-     - 5%
+     - 30%
    * - vimand
      - 0.0.1
      - ✅
