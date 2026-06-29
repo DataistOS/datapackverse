@@ -30,9 +30,7 @@ def get_remote_version(tool_name):
     try:
         with urllib.request.urlopen(url, timeout=5) as response:
             content = response.read().decode('utf-8').strip()
-            # If the file contains an echo command, extract only the version string
             if 'echo "' in content:
-                # Extracts the string between the first pair of double quotes
                 return content.split('"')[1]
             return content
     except Exception:
@@ -53,7 +51,7 @@ def update_and_generate():
         if remote_version:
             t['version'] = remote_version
 
-    # 2. Save updated tools.json in compact format (one object per line)
+    # 2. Save updated tools.json in compact format
     with open(json_path, 'w', encoding='utf-8') as f:
         f.write("[\n")
         for i, tool in enumerate(tools):
@@ -65,18 +63,16 @@ def update_and_generate():
         f.write("]")
     print("tools.json updated successfully in compact format.")
 
-    # 3. Generate RST formatted checklist based on updated data
+    # 3. Generate RST formatted checklist (Simplified columns)
     header = """Tool Status Checklist
 =====================
 
 .. list-table:: Current status of Dataist ecosystem tools
-   :widths: 20 15 15 15 20
+   :widths: 30 30 40
    :header-rows: 1
 
    * - Tool Name
      - Version
-     - GitHub Repo
-     - Logo Status
      - Progress
 """
 
@@ -85,8 +81,6 @@ def update_and_generate():
         progress = calculate_progress(t['version'])
         rows += f"   * - {t['name']}\n"
         rows += f"     - {t['version']}\n"
-        rows += f"     - ✅\n"
-        rows += f"     - ✅\n"
         rows += f"     - {progress}\n"
 
     with open('checklist.rst', 'w', encoding='utf-8') as f:
