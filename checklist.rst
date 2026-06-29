@@ -11,10 +11,10 @@ Tool Status Checklist
      - Logo Status
      - Progress
    * - adm
-     - echo "0.1.0-alpha" > VERSION
+     - 0.1.0-alpha
      - ✅
      - ✅
-     - 5%
+     - 30%
    * - asha
      - 0.0.1
      - ✅
@@ -61,10 +61,10 @@ Tool Status Checklist
      - ✅
      - 5%
    * - datapackverse
-     - 0.0.1
+     - 0.0.3
      - ✅
      - ✅
-     - 5%
+     - 15%
    * - datapack
      - 0.0.1
      - ✅

@@ -25,11 +25,16 @@ def calculate_progress(version):
         return "5%"
 
 def get_remote_version(tool_name):
-    """Fetch version from GitHub raw file."""
+    """Fetch version from GitHub raw file and clean content if it's an echo command."""
     url = f"https://raw.githubusercontent.com/DataistOS/{tool_name}/heuristic/VERSION"
     try:
         with urllib.request.urlopen(url, timeout=5) as response:
-            return response.read().decode('utf-8').strip()
+            content = response.read().decode('utf-8').strip()
+            # If the file contains an echo command, extract only the version string
+            if 'echo "' in content:
+                # Extracts the string between the first pair of double quotes
+                return content.split('"')[1]
+            return content
     except Exception:
         return None
 
