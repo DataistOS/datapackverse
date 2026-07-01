@@ -9,24 +9,21 @@ Tool Status Checklist
      - Version
      - Progress
    * - adm
-     - 0.1.0-alpha
+     - 0.1.4
      - 30%
    * - asha
-     - 0.0.1
-     - 5%
+     - 0.1.9
+     - 30%
    * - bahoma
      - 0.0.1
      - 5%
    * - blender_gitsculpt
      - 0.0.1
      - 5%
+   * - bluetoothctl
+     - 0.0.1
+     - 5%
    * - code_jadimotion
-     - 0.0.1
-     - 5%
-   * - daftarche
-     - 0.0.1
-     - 5%
-   * - damavand
      - 0.0.1
      - 5%
    * - dat
@@ -35,16 +32,28 @@ Tool Status Checklist
    * - databoss
      - 0.0.1
      - 5%
+   * - dataism_art
+     - 0.0.1
+     - 5%
    * - dataistbox
      - 0.0.1
      - 5%
-   * - datapackverse
-     - 0.0.4
-     - 15%
    * - datapack
      - 0.0.1
      - 5%
+   * - datapackverse
+     - 0.0.5
+     - 15%
    * - datistan
+     - 0.0.1
+     - 5%
+   * - dating4x
+     - 0.0.1
+     - 5%
+   * - daftarche
+     - 0.0.1
+     - 5%
+   * - damavand
      - 0.0.1
      - 5%
    * - dopy
@@ -56,13 +65,34 @@ Tool Status Checklist
    * - dpic
      - 0.0.1
      - 5%
+   * - drsttrategies
+     - 0.0.1
+     - 5%
    * - estahban_city
+     - 0.0.1
+     - 5%
+   * - estelamat
      - 0.0.1
      - 5%
    * - evis
      - 0.0.1
      - 5%
+   * - fig_scan
+     - 0.0.1
+     - 5%
    * - firefox_dejavu_unseen
+     - 0.0.1
+     - 5%
+   * - ganjor
+     - 0.0.1
+     - 5%
+   * - geomelody
+     - 0.0.1
+     - 5%
+   * - ghazalique
+     - 0.0.1
+     - 5%
+   * - ghostport
      - 0.0.1
      - 5%
    * - humanager
@@ -74,10 +104,19 @@ Tool Status Checklist
    * - idna
      - 0.0.1
      - 5%
+   * - Infovore
+     - 0.0.1
+     - 5%
    * - invitehub
      - 0.0.1
      - 5%
+   * - iranaccess
+     - 0.0.1
+     - 5%
    * - jadijadi
+     - 0.0.1
+     - 5%
+   * - kavosh
      - 0.0.1
      - 5%
    * - khazaneh
@@ -92,16 +131,37 @@ Tool Status Checklist
    * - metra
      - 0.0.1
      - 5%
+   * - mitra
+     - 0.0.1
+     - 5%
+   * - my_estahban_city
+     - 0.0.1
+     - 5%
    * - myestahbancity
      - 0.0.1
      - 5%
    * - negar
      - 0.0.1
      - 5%
+   * - netecho
+     - 0.0.1
+     - 5%
    * - parivin
      - 0.0.1
      - 5%
+   * - parsgeo
+     - 0.0.1
+     - 5%
    * - peyk
+     - 0.0.1
+     - 5%
+   * - radarpet
+     - 0.0.1
+     - 5%
+   * - radgaller
+     - 0.0.1
+     - 5%
+   * - rapcode
      - 0.0.1
      - 5%
    * - residname
@@ -114,6 +174,9 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - setahban
+     - 0.0.1
+     - 5%
+   * - sevenfy
      - 0.0.1
      - 5%
    * - sphinext
@@ -137,6 +200,12 @@ Tool Status Checklist
    * - upupa
      - 0.1.0
      - 30%
+   * - vazh
+     - 0.0.1
+     - 5%
+   * - veys
+     - 0.0.1
+     - 5%
    * - vimand
      - 0.0.1
      - 5%
@@ -146,3 +215,7 @@ Tool Status Checklist
    * - zir
      - 0.0.1
      - 5%
+
+.. admonition:: Dataist Distribution Health
+   
+   Overall Ecosystem Progress: **6.2%**
