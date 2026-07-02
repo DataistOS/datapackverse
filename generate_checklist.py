@@ -1,6 +1,7 @@
 import json
 import urllib.request
 import urllib.error
+from collections import defaultdict
 
 def calculate_progress(version):
     clean_version = version.split('-')[0]
@@ -37,12 +38,20 @@ def update_and_generate():
     with open(json_path, 'r', encoding='utf-8') as f:
         tools = json.load(f)
 
+    category_stats = defaultdict(list)
+    total_score = 0
+
     for t in tools:
         print(f"Checking version for {t['name']}...")
         remote_version = get_remote_version(t['name'])
         if remote_version:
             t['version'] = remote_version
 
+        progress_val = int(calculate_progress(t['version']).replace('%', ''))
+        total_score += progress_val
+        category_stats[t['category']].append(progress_val)
+
+    # Maintain original JSON formatting
     with open(json_path, 'w', encoding='utf-8') as f:
         f.write("[\n")
         for i, tool in enumerate(tools):
@@ -67,26 +76,32 @@ def update_and_generate():
 """
 
     rows = ""
-    total_score = 0
     for t in tools:
         progress_str = calculate_progress(t['version'])
-        total_score += int(progress_str.replace('%', ''))
-        rows += f"   * - {t['name']}\n"
+        tool_url = f"https://github.com/DataistOS/{t['name']}"
+        rows += f"   * - `{t['name']} <{tool_url}>`_\n"
         rows += f"     - {t['version']}\n"
         rows += f"     - {progress_str}\n"
 
     avg_progress = total_score / len(tools)
 
+    category_footer = "\nCategory Breakdown\n------------------\n\n"
+    for cat, scores in category_stats.items():
+        avg_cat = sum(scores) / len(scores)
+        category_footer += f"- **{cat}**: {avg_cat:.1f}%\n"
+
     footer = f"""
 .. admonition:: Dataist Distribution Health
    
    Overall Ecosystem Progress: **{avg_progress:.1f}%**
+{category_footer}
 """
 
     with open('checklist.rst', 'w', encoding='utf-8') as f:
         f.write(header + rows + footer)
 
     print(f"checklist.rst generated successfully. Ecosystem Health: {avg_progress:.1f}%")
+
 
 if __name__ == "__main__":
     update_and_generate()
