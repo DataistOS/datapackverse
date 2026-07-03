@@ -15,8 +15,8 @@ Tool Status Checklist
      - 0.1.9
      - 30%
    * - `bahoma <https://github.com/DataistOS/bahoma>`_
-     - 0.0.1
-     - 5%
+     - 0.0.2
+     - 10%
    * - `blender_gitsculpt <https://github.com/DataistOS/blender_gitsculpt>`_
      - 0.0.1
      - 5%
@@ -42,7 +42,7 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `datapackverse <https://github.com/DataistOS/datapackverse>`_
-     - 0.0.6
+     - 0.0.7
      - 15%
    * - `datistan <https://github.com/DataistOS/datistan>`_
      - 0.0.1
@@ -63,8 +63,8 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `dpic <https://github.com/DataistOS/dpic>`_
-     - 0.0.1
-     - 5%
+     - 0.3.9
+     - 50%
    * - `drsttrategies <https://github.com/DataistOS/drsttrategies>`_
      - 0.0.1
      - 5%
@@ -218,14 +218,14 @@ Tool Status Checklist
 
 .. admonition:: Dataist Distribution Health
    
-   Overall Ecosystem Progress: **6.2%**
+   Overall Ecosystem Progress: **7.0%**
 
 Category Breakdown
 ------------------
 
 - **Auzar**: 30.0%
-- **SSOT**: 9.4%
-- **Dataist**: 5.0%
+- **SSOT**: 15.0%
+- **Dataist**: 5.5%
 - **Extensions**: 5.0%
 - **Sima**: 5.0%
 - **Dataist Box**: 5.0%
