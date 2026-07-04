@@ -27,8 +27,8 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `dat <https://github.com/DataistOS/dat>`_
-     - 0.0.1
-     - 5%
+     - 0.1.3
+     - 30%
    * - `databoss <https://github.com/DataistOS/databoss>`_
      - 0.0.1
      - 5%
@@ -42,11 +42,11 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `datapackverse <https://github.com/DataistOS/datapackverse>`_
-     - 0.0.7
+     - 0.0.8
      - 15%
    * - `datistan <https://github.com/DataistOS/datistan>`_
-     - 0.0.1
-     - 5%
+     - 0.0.2
+     - 10%
    * - `dating4x <https://github.com/DataistOS/dating4x>`_
      - 0.0.1
      - 5%
@@ -108,8 +108,8 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `invitehub <https://github.com/DataistOS/invitehub>`_
-     - 0.0.1
-     - 5%
+     - 0.0.2
+     - 10%
    * - `iranaccess <https://github.com/DataistOS/iranaccess>`_
      - 0.0.1
      - 5%
@@ -180,8 +180,8 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `sphinext <https://github.com/DataistOS/sphinext>`_
-     - 0.0.1
-     - 5%
+     - 0.1.1
+     - 30%
    * - `sphinx_logs <https://github.com/DataistOS/sphinx_logs>`_
      - 0.0.1
      - 5%
@@ -189,8 +189,8 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `status_dataist_ir <https://github.com/DataistOS/status_dataist_ir>`_
-     - 0.0.1
-     - 5%
+     - 0.0.2
+     - 10%
    * - `tikan <https://github.com/DataistOS/tikan>`_
      - 0.0.1
      - 5%
@@ -198,7 +198,7 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `upupa <https://github.com/DataistOS/upupa>`_
-     - 0.1.0
+     - 0.1.1
      - 30%
    * - `vazh <https://github.com/DataistOS/vazh>`_
      - 0.0.1
@@ -210,24 +210,24 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `www_dataist_ir <https://github.com/DataistOS/www_dataist_ir>`_
-     - 0.0.1
-     - 5%
+     - 0.0.2
+     - 10%
    * - `zir <https://github.com/DataistOS/zir>`_
-     - 0.0.1
-     - 5%
+     - 0.0.2
+     - 10%
 
 .. admonition:: Dataist Distribution Health
    
-   Overall Ecosystem Progress: **7.0%**
+   Overall Ecosystem Progress: **8.0%**
 
 Category Breakdown
 ------------------
 
 - **Auzar**: 30.0%
-- **SSOT**: 15.0%
+- **SSOT**: 19.4%
 - **Dataist**: 5.5%
 - **Extensions**: 5.0%
-- **Sima**: 5.0%
+- **Sima**: 13.3%
 - **Dataist Box**: 5.0%
 - **Startup**: 6.3%
 - **Datavore**: 5.0%
@@ -237,6 +237,6 @@ Category Breakdown
 - **Games**: 5.0%
 - **Sahand**: 5.0%
 - **Localization**: 5.0%
-- **Services**: 5.0%
-- **Scripts**: 5.0%
+- **Services**: 10.0%
+- **Scripts**: 10.0%
 
