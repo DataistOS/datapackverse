@@ -42,7 +42,7 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `datapackverse <https://github.com/DataistOS/datapackverse>`_
-     - 0.0.8
+     - 0.0.9
      - 15%
    * - `datistan <https://github.com/DataistOS/datistan>`_
      - 0.0.2
@@ -63,8 +63,8 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `dpic <https://github.com/DataistOS/dpic>`_
-     - 0.3.9
-     - 50%
+     - 0.4.0
+     - 60%
    * - `drsttrategies <https://github.com/DataistOS/drsttrategies>`_
      - 0.0.1
      - 5%
@@ -129,15 +129,12 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `metra <https://github.com/DataistOS/metra>`_
-     - 0.0.1
-     - 5%
+     - 0.1.0
+     - 30%
    * - `mitra <https://github.com/DataistOS/mitra>`_
      - 0.0.1
      - 5%
    * - `my_estahban_city <https://github.com/DataistOS/my_estahban_city>`_
-     - 0.0.1
-     - 5%
-   * - `myestahbancity <https://github.com/DataistOS/myestahbancity>`_
      - 0.0.1
      - 5%
    * - `negar <https://github.com/DataistOS/negar>`_
@@ -218,21 +215,20 @@ Tool Status Checklist
 
 .. admonition:: Dataist Distribution Health
    
-   Overall Ecosystem Progress: **8.0%**
+   Overall Ecosystem Progress: **8.6%**
 
 Category Breakdown
 ------------------
 
-- **Auzar**: 30.0%
-- **SSOT**: 19.4%
-- **Dataist**: 5.5%
+- **Auzar**: 10.0%
+- **SSOT**: 20.6%
+- **Dataist**: 7.7%
 - **Extensions**: 5.0%
 - **Sima**: 13.3%
 - **Dataist Box**: 5.0%
 - **Startup**: 6.3%
 - **Datavore**: 5.0%
 - **Damavand**: 5.0%
-- **Hardware**: 5.0%
 - **Citizenship**: 5.0%
 - **Games**: 5.0%
 - **Sahand**: 5.0%
