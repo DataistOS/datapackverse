@@ -42,8 +42,8 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `datapackverse <https://github.com/DataistOS/datapackverse>`_
-     - 0.0.9
-     - 15%
+     - 0.1.0
+     - 30%
    * - `datistan <https://github.com/DataistOS/datistan>`_
      - 0.0.2
      - 10%
@@ -162,8 +162,8 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `residname <https://github.com/DataistOS/residname>`_
-     - 0.0.1
-     - 5%
+     - 0.1.0
+     - 30%
    * - `sahand <https://github.com/DataistOS/sahand>`_
      - 0.0.1
      - 5%
@@ -215,19 +215,19 @@ Tool Status Checklist
 
 .. admonition:: Dataist Distribution Health
    
-   Overall Ecosystem Progress: **8.6%**
+   Overall Ecosystem Progress: **9.2%**
 
 Category Breakdown
 ------------------
 
 - **Auzar**: 10.0%
-- **SSOT**: 20.6%
+- **SSOT**: 22.5%
 - **Dataist**: 7.7%
 - **Extensions**: 5.0%
 - **Sima**: 13.3%
 - **Dataist Box**: 5.0%
 - **Startup**: 6.3%
-- **Datavore**: 5.0%
+- **Datavore**: 10.0%
 - **Damavand**: 5.0%
 - **Citizenship**: 5.0%
 - **Games**: 5.0%
