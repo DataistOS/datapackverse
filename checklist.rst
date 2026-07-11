@@ -42,7 +42,7 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `datapackverse <https://github.com/DataistOS/datapackverse>`_
-     - 0.1.3
+     - 0.1.4
      - 30%
    * - `datistan <https://github.com/DataistOS/datistan>`_
      - 0.0.2
@@ -63,7 +63,7 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `dpic <https://github.com/DataistOS/dpic>`_
-     - 0.4.0
+     - 0.4.2
      - 60%
    * - `drsttrategies <https://github.com/DataistOS/drsttrategies>`_
      - 0.0.1
