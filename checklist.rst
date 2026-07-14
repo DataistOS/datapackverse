@@ -63,7 +63,7 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `dpic <https://github.com/DataistOS/dpic>`_
-     - 0.4.2
+     - 0.4.3
      - 60%
    * - `drsttrategies <https://github.com/DataistOS/drsttrategies>`_
      - 0.0.1
@@ -102,8 +102,8 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `idna <https://github.com/DataistOS/idna>`_
-     - 0.0.1
-     - 5%
+     - 0.1.0
+     - 30%
    * - `Infovore <https://github.com/DataistOS/Infovore>`_
      - 0.0.1
      - 5%
@@ -215,14 +215,14 @@ Tool Status Checklist
 
 .. admonition:: Dataist Distribution Health
    
-   Overall Ecosystem Progress: **9.6%**
+   Overall Ecosystem Progress: **9.9%**
 
 Category Breakdown
 ------------------
 
 - **Auzar**: 10.0%
 - **SSOT**: 22.5%
-- **Dataist**: 7.7%
+- **Dataist**: 10.0%
 - **Extensions**: 5.0%
 - **Sima**: 13.3%
 - **Dataist Box**: 5.0%
