@@ -27,7 +27,7 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `dat <https://github.com/DataistOS/dat>`_
-     - 0.1.3
+     - 0.1.4
      - 30%
    * - `databoss <https://github.com/DataistOS/databoss>`_
      - 0.0.1
@@ -42,7 +42,7 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `datapackverse <https://github.com/DataistOS/datapackverse>`_
-     - 0.1.5
+     - 0.1.7
      - 30%
    * - `datistan <https://github.com/DataistOS/datistan>`_
      - 0.0.2
@@ -69,8 +69,8 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - `estahban_city <https://github.com/DataistOS/estahban_city>`_
-     - 0.0.1
-     - 5%
+     - 0.1.0
+     - 30%
    * - `estelamat <https://github.com/DataistOS/estelamat>`_
      - 0.0.1
      - 5%
@@ -215,7 +215,7 @@ Tool Status Checklist
 
 .. admonition:: Dataist Distribution Health
    
-   Overall Ecosystem Progress: **9.9%**
+   Overall Ecosystem Progress: **10.3%**
 
 Category Breakdown
 ------------------
@@ -229,7 +229,7 @@ Category Breakdown
 - **Startup**: 6.3%
 - **Datavore**: 10.0%
 - **Damavand**: 5.0%
-- **Citizenship**: 17.5%
+- **Citizenship**: 30.0%
 - **Games**: 5.0%
 - **Sahand**: 5.0%
 - **Localization**: 5.0%
