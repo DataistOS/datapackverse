@@ -59,7 +59,7 @@ Tool Status Checklist
      - 5%
    * - 13
      - `datapackverse <https://github.com/DataistOS/datapackverse>`_
-     - 0.1.8
+     - 0.1.9
      - 30%
    * - 14
      - `datistan <https://github.com/DataistOS/datistan>`_
@@ -82,222 +82,230 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - 19
-     - `dpos <https://github.com/DataistOS/dpos>`_
+     - `dormuz <https://github.com/DataistOS/dormuz>`_
      - 0.0.1
      - 5%
    * - 20
-     - `dpic <https://github.com/DataistOS/dpic>`_
-     - 0.4.3
-     - 60%
+     - `dpos <https://github.com/DataistOS/dpos>`_
+     - 0.0.1
+     - 5%
    * - 21
+     - `dpic <https://github.com/DataistOS/dpic>`_
+     - 0.4.5
+     - 60%
+   * - 22
      - `drsttrategies <https://github.com/DataistOS/drsttrategies>`_
      - 0.0.1
      - 5%
-   * - 22
+   * - 23
      - `estahban_city <https://github.com/DataistOS/estahban_city>`_
      - 0.1.0
      - 30%
-   * - 23
+   * - 24
      - `estelamat <https://github.com/DataistOS/estelamat>`_
      - 0.0.1
      - 5%
-   * - 24
+   * - 25
      - `evis <https://github.com/DataistOS/evis>`_
      - 0.0.1
      - 5%
-   * - 25
+   * - 26
      - `fig_scan <https://github.com/DataistOS/fig_scan>`_
      - 0.0.1
      - 5%
-   * - 26
+   * - 27
      - `firefox_dejavu_unseen <https://github.com/DataistOS/firefox_dejavu_unseen>`_
      - 0.0.1
      - 5%
-   * - 27
+   * - 28
      - `ganjor <https://github.com/DataistOS/ganjor>`_
      - 0.0.1
      - 5%
-   * - 28
+   * - 29
      - `geomelody <https://github.com/DataistOS/geomelody>`_
      - 0.0.1
      - 5%
-   * - 29
+   * - 30
      - `ghazalique <https://github.com/DataistOS/ghazalique>`_
      - 0.0.1
      - 5%
-   * - 30
+   * - 31
      - `ghostport <https://github.com/DataistOS/ghostport>`_
      - 0.0.1
      - 5%
-   * - 31
+   * - 32
      - `humanager <https://github.com/DataistOS/humanager>`_
      - 0.0.1
      - 5%
-   * - 32
+   * - 33
      - `idea_jadimotion <https://github.com/DataistOS/idea_jadimotion>`_
      - 0.0.1
      - 5%
-   * - 33
+   * - 34
      - `idna <https://github.com/DataistOS/idna>`_
      - 0.1.0
      - 30%
-   * - 34
-     - `Infovore <https://github.com/DataistOS/Infovore>`_
+   * - 35
+     - `infovore <https://github.com/DataistOS/infovore>`_
      - 0.0.1
      - 5%
-   * - 35
+   * - 36
      - `invitehub <https://github.com/DataistOS/invitehub>`_
      - 0.0.2
      - 10%
-   * - 36
+   * - 37
      - `iranaccess <https://github.com/DataistOS/iranaccess>`_
      - 0.0.1
      - 5%
-   * - 37
+   * - 38
      - `jadijadi <https://github.com/DataistOS/jadijadi>`_
      - 0.0.1
      - 5%
-   * - 38
-     - `kavosh <https://github.com/DataistOS/kavosh>`_
-     - 0.0.1
-     - 5%
    * - 39
-     - `khazaneh <https://github.com/DataistOS/khazaneh>`_
+     - `karan <https://github.com/DataistOS/karan>`_
      - 0.0.1
      - 5%
    * - 40
-     - `lugard <https://github.com/DataistOS/lugard>`_
+     - `kavosh <https://github.com/DataistOS/kavosh>`_
      - 0.0.1
      - 5%
    * - 41
-     - `metasavalan <https://github.com/DataistOS/metasavalan>`_
+     - `khazaneh <https://github.com/DataistOS/khazaneh>`_
      - 0.0.1
      - 5%
    * - 42
-     - `metra <https://github.com/DataistOS/metra>`_
-     - 0.1.0
-     - 30%
+     - `lugard <https://github.com/DataistOS/lugard>`_
+     - 0.0.1
+     - 5%
    * - 43
-     - `mitra <https://github.com/DataistOS/mitra>`_
+     - `metasavalan <https://github.com/DataistOS/metasavalan>`_
      - 0.0.1
      - 5%
    * - 44
-     - `my_estahban_city <https://github.com/DataistOS/my_estahban_city>`_
-     - 0.1.1
+     - `metra <https://github.com/DataistOS/metra>`_
+     - 0.1.0
      - 30%
    * - 45
-     - `negar <https://github.com/DataistOS/negar>`_
+     - `mitra <https://github.com/DataistOS/mitra>`_
      - 0.0.1
      - 5%
    * - 46
-     - `negargar <https://github.com/DataistOS/negargar>`_
-     - 0.0.1
-     - 5%
+     - `my_estahban_city <https://github.com/DataistOS/my_estahban_city>`_
+     - 0.1.1
+     - 30%
    * - 47
-     - `netecho <https://github.com/DataistOS/netecho>`_
+     - `negar <https://github.com/DataistOS/negar>`_
      - 0.0.1
      - 5%
    * - 48
-     - `parivin <https://github.com/DataistOS/parivin>`_
+     - `negargar <https://github.com/DataistOS/negargar>`_
      - 0.0.1
      - 5%
    * - 49
-     - `parsgeo <https://github.com/DataistOS/parsgeo>`_
+     - `netecho <https://github.com/DataistOS/netecho>`_
      - 0.0.1
      - 5%
    * - 50
-     - `peyk <https://github.com/DataistOS/peyk>`_
+     - `parivin <https://github.com/DataistOS/parivin>`_
      - 0.0.1
      - 5%
    * - 51
-     - `radarpet <https://github.com/DataistOS/radarpet>`_
+     - `parsgeo <https://github.com/DataistOS/parsgeo>`_
      - 0.0.1
      - 5%
    * - 52
-     - `radgaller <https://github.com/DataistOS/radgaller>`_
+     - `peyk <https://github.com/DataistOS/peyk>`_
      - 0.0.1
      - 5%
    * - 53
-     - `rapcode <https://github.com/DataistOS/rapcode>`_
+     - `radarpet <https://github.com/DataistOS/radarpet>`_
      - 0.0.1
      - 5%
    * - 54
-     - `residname <https://github.com/DataistOS/residname>`_
-     - 0.1.0
-     - 30%
+     - `radgaller <https://github.com/DataistOS/radgaller>`_
+     - 0.0.1
+     - 5%
    * - 55
-     - `sahand <https://github.com/DataistOS/sahand>`_
+     - `rapcode <https://github.com/DataistOS/rapcode>`_
      - 0.0.1
      - 5%
    * - 56
-     - `setaverse <https://github.com/DataistOS/setaverse>`_
-     - 0.0.1
-     - 5%
+     - `residname <https://github.com/DataistOS/residname>`_
+     - 0.1.0
+     - 30%
    * - 57
-     - `setahban <https://github.com/DataistOS/setahban>`_
+     - `sahand <https://github.com/DataistOS/sahand>`_
      - 0.0.1
      - 5%
    * - 58
-     - `sevenfy <https://github.com/DataistOS/sevenfy>`_
+     - `setaverse <https://github.com/DataistOS/setaverse>`_
      - 0.0.1
      - 5%
    * - 59
-     - `sphinext <https://github.com/DataistOS/sphinext>`_
-     - 0.1.1
-     - 30%
+     - `setahban <https://github.com/DataistOS/setahban>`_
+     - 0.0.1
+     - 5%
    * - 60
-     - `sphinx_logs <https://github.com/DataistOS/sphinx_logs>`_
+     - `sevenfy <https://github.com/DataistOS/sevenfy>`_
      - 0.0.1
      - 5%
    * - 61
+     - `sphinext <https://github.com/DataistOS/sphinext>`_
+     - 0.1.1
+     - 30%
+   * - 62
+     - `sphinx_logs <https://github.com/DataistOS/sphinx_logs>`_
+     - 0.0.1
+     - 5%
+   * - 63
      - `sphinx_radan <https://github.com/DataistOS/sphinx_radan>`_
      - 0.0.1
      - 5%
-   * - 62
+   * - 64
      - `status_dataist_ir <https://github.com/DataistOS/status_dataist_ir>`_
      - 0.0.2
      - 10%
-   * - 63
+   * - 65
      - `tikan <https://github.com/DataistOS/tikan>`_
      - 0.0.1
      - 5%
-   * - 64
+   * - 66
      - `toosheh <https://github.com/DataistOS/toosheh>`_
      - 0.0.1
      - 5%
-   * - 65
+   * - 67
      - `upupa <https://github.com/DataistOS/upupa>`_
      - 0.1.1
      - 30%
-   * - 66
+   * - 68
      - `vazh <https://github.com/DataistOS/vazh>`_
      - 0.0.1
      - 5%
-   * - 67
+   * - 69
      - `veys <https://github.com/DataistOS/veys>`_
      - 0.0.1
      - 5%
-   * - 68
+   * - 70
      - `vimand <https://github.com/DataistOS/vimand>`_
      - 0.0.1
      - 5%
-   * - 69
+   * - 71
      - `www_dataist_ir <https://github.com/DataistOS/www_dataist_ir>`_
      - 0.0.2
      - 10%
-   * - 70
+   * - 72
      - `zir <https://github.com/DataistOS/zir>`_
      - 0.0.2
      - 10%
 .. admonition:: Dataist Distribution Health
 
-   Overall Ecosystem Progress: **10.1%**
+   Overall Ecosystem Progress: **10.0%**
 
 Category Breakdown
 ------------------
 
 - **Auzar**: 10.0%
-- **SSOT**: 20.6%
+- **SSOT**: 19.0%
 - **Dataist**: 10.0%
 - **Extensions**: 5.0%
 - **Sima**: 13.3%
