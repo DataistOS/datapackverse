@@ -15,8 +15,8 @@ Tool Status Checklist
      - 30%
    * - 2
      - `argenix <https://github.com/DataistOS/argenix>`_
-     - 0.0.1
-     - 5%
+     - 0.0.2
+     - 10%
    * - 3
      - `asha <https://github.com/DataistOS/asha>`_
      - 0.1.9
@@ -91,7 +91,7 @@ Tool Status Checklist
      - 5%
    * - 21
      - `datapackverse <https://github.com/DataistOS/datapackverse>`_
-     - 0.2.3
+     - 0.2.4
      - 40%
    * - 22
      - `datasync <https://github.com/DataistOS/datasync>`_
@@ -119,7 +119,7 @@ Tool Status Checklist
      - 5%
    * - 28
      - `dpic <https://github.com/DataistOS/dpic>`_
-     - 0.4.6
+     - 0.4.7
      - 60%
    * - 29
      - `dpos <https://github.com/DataistOS/dpos>`_
@@ -306,99 +306,155 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - 75
-     - `rastin_map <https://github.com/DataistOS/rastin_map>`_
-     - 0.0.1
-     - 5%
-   * - 76
      - `rayaname <https://github.com/DataistOS/rayaname>`_
      - 0.0.1
      - 5%
-   * - 77
+   * - 76
      - `residname <https://github.com/DataistOS/residname>`_
      - 0.1.0
      - 30%
-   * - 78
+   * - 77
      - `rokhdad <https://github.com/DataistOS/rokhdad>`_
      - 0.0.1
      - 5%
-   * - 79
+   * - 78
      - `rouz <https://github.com/DataistOS/rouz>`_
      - 0.0.1
      - 5%
-   * - 80
+   * - 79
      - `sahand <https://github.com/DataistOS/sahand>`_
      - 0.0.1
      - 5%
-   * - 81
+   * - 80
      - `setahban <https://github.com/DataistOS/setahban>`_
      - 0.0.1
      - 5%
-   * - 82
+   * - 81
      - `setaverse <https://github.com/DataistOS/setaverse>`_
      - 0.0.1
      - 5%
-   * - 83
+   * - 82
      - `sevenfy <https://github.com/DataistOS/sevenfy>`_
      - 0.0.1
      - 5%
-   * - 84
+   * - 83
      - `sphinext <https://github.com/DataistOS/sphinext>`_
      - 0.1.1
      - 30%
-   * - 85
+   * - 84
      - `sphinx_logs <https://github.com/DataistOS/sphinx_logs>`_
      - 0.0.1
      - 5%
-   * - 86
+   * - 85
      - `sphinx_radan <https://github.com/DataistOS/sphinx_radan>`_
      - 0.0.1
      - 5%
-   * - 87
+   * - 86
      - `status_dataist_ir <https://github.com/DataistOS/status_dataist_ir>`_
      - 0.0.2
      - 10%
-   * - 88
+   * - 87
      - `tikan <https://github.com/DataistOS/tikan>`_
      - 0.0.1
      - 5%
-   * - 89
+   * - 88
      - `toosheh <https://github.com/DataistOS/toosheh>`_
      - 0.0.1
      - 5%
-   * - 90
+   * - 89
      - `upupa <https://github.com/DataistOS/upupa>`_
      - 0.1.1
      - 30%
-   * - 91
+   * - 90
      - `vangah <https://github.com/DataistOS/vangah>`_
      - 0.0.1
      - 5%
-   * - 92
+   * - 91
      - `vazh <https://github.com/DataistOS/vazh>`_
      - 0.0.1
      - 5%
-   * - 93
+   * - 92
      - `veys <https://github.com/DataistOS/veys>`_
      - 0.0.1
      - 5%
-   * - 94
+   * - 93
      - `vimand <https://github.com/DataistOS/vimand>`_
      - 0.0.1
      - 5%
-   * - 95
+   * - 94
      - `vimist <https://github.com/DataistOS/vimist>`_
      - 0.0.1
      - 5%
+   * - 95
+     - `netarg <https://github.com/DataistOS/netarg>`_
+     - 0.0.1
+     - 5%
+   * - 96
+     - `padra <https://github.com/DataistOS/padra>`_
+     - 0.0.1
+     - 5%
+   * - 97
+     - `javidan <https://github.com/DataistOS/javidan>`_
+     - 0.0.1
+     - 5%
+   * - 98
+     - `www_dataist_ir <https://github.com/DataistOS/www_dataist_ir>`_
+     - 0.0.2
+     - 10%
+   * - 99
+     - `chatrang <https://github.com/DataistOS/chatrang>`_
+     - 0.0.1
+     - 5%
+   * - 100
+     - `clicord <https://github.com/DataistOS/clicord>`_
+     - 0.0.1
+     - 5%
+   * - 101
+     - `daricaria <https://github.com/DataistOS/daricaria>`_
+     - 0.0.1
+     - 5%
+   * - 102
+     - `dataistos <https://github.com/DataistOS/dataistos>`_
+     - 0.0.1
+     - 5%
+   * - 103
+     - `gitchat <https://github.com/DataistOS/gitchat>`_
+     - 0.0.1
+     - 5%
+   * - 104
+     - `peris <https://github.com/DataistOS/peris>`_
+     - 0.0.1
+     - 5%
+   * - 105
+     - `persiatoon <https://github.com/DataistOS/persiatoon>`_
+     - 0.0.1
+     - 5%
+   * - 106
+     - `pirouz <https://github.com/DataistOS/pirouz>`_
+     - 0.0.1
+     - 5%
+   * - 107
+     - `surena <https://github.com/DataistOS/surena>`_
+     - 0.0.1
+     - 5%
+   * - 108
+     - `varg <https://github.com/DataistOS/varg>`_
+     - 0.0.1
+     - 5%
+   * - 109
+     - `zir <https://github.com/DataistOS/zir>`_
+     - 0.0.2
+     - 10%
 .. admonition:: Dataist Distribution Health
 
-   Overall Ecosystem Progress: **9.1%**
+   Overall Ecosystem Progress: **8.7%**
 
 Category Breakdown
 ------------------
 
 - **Auzar**: 10.0%
-- **SSOT**: 17.5%
-- **Startup**: 6.0%
+- **SSOT**: 17.9%
+- **Startup**: 5.8%
 - **Dataist**: 8.9%
 - **Extensions**: 5.0%
 - **Sima**: 13.3%
