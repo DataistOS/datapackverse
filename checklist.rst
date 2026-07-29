@@ -91,7 +91,7 @@ Tool Status Checklist
      - 5%
    * - 21
      - `datapackverse <https://github.com/DataistOS/datapackverse>`_
-     - 0.2.4
+     - 0.2.5
      - 40%
    * - 22
      - `datasync <https://github.com/DataistOS/datasync>`_
@@ -119,8 +119,8 @@ Tool Status Checklist
      - 5%
    * - 28
      - `dpic <https://github.com/DataistOS/dpic>`_
-     - 0.4.7
-     - 60%
+     - 0.5.0
+     - 70%
    * - 29
      - `dpos <https://github.com/DataistOS/dpos>`_
      - 0.0.1
@@ -443,18 +443,18 @@ Tool Status Checklist
      - 5%
    * - 109
      - `zir <https://github.com/DataistOS/zir>`_
-     - 0.0.2
-     - 10%
+     - 0.0.3
+     - 15%
 .. admonition:: Dataist Distribution Health
 
-   Overall Ecosystem Progress: **8.7%**
+   Overall Ecosystem Progress: **8.8%**
 
 Category Breakdown
 ------------------
 
 - **Auzar**: 10.0%
-- **SSOT**: 17.9%
-- **Startup**: 5.8%
+- **SSOT**: 18.8%
+- **Startup**: 5.7%
 - **Dataist**: 8.9%
 - **Extensions**: 5.0%
 - **Sima**: 13.3%
@@ -468,3 +468,4 @@ Category Breakdown
 - **Sahand**: 5.0%
 - **Localization**: 5.0%
 - **Services**: 10.0%
+- **Script**: 15.0%
