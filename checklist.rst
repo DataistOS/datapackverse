@@ -91,7 +91,7 @@ Tool Status Checklist
      - 5%
    * - 21
      - `datapackverse <https://github.com/DataistOS/datapackverse>`_
-     - 0.2.5
+     - 0.2.6
      - 40%
    * - 22
      - `datasync <https://github.com/DataistOS/datasync>`_
@@ -119,7 +119,7 @@ Tool Status Checklist
      - 5%
    * - 28
      - `dpic <https://github.com/DataistOS/dpic>`_
-     - 0.5.0
+     - 0.5.2
      - 70%
    * - 29
      - `dpos <https://github.com/DataistOS/dpos>`_
@@ -247,7 +247,7 @@ Tool Status Checklist
      - 5%
    * - 60
      - `my_estahban_city <https://github.com/DataistOS/my_estahban_city>`_
-     - 0.1.1
+     - 0.1.2
      - 30%
    * - 61
      - `negar <https://github.com/DataistOS/negar>`_
