@@ -11,7 +11,7 @@ Tool Status Checklist
      - Progress
    * - 1
      - `adm <https://github.com/DataistOS/adm>`_
-     - 0.1.5
+     - 0.1.8
      - 30%
    * - 2
      - `argenix <https://github.com/DataistOS/argenix>`_
@@ -91,7 +91,7 @@ Tool Status Checklist
      - 5%
    * - 21
      - `datapackverse <https://github.com/DataistOS/datapackverse>`_
-     - 0.2.6
+     - 0.2.7
      - 40%
    * - 22
      - `datasync <https://github.com/DataistOS/datasync>`_
@@ -399,8 +399,8 @@ Tool Status Checklist
      - 5%
    * - 98
      - `www_dataist_ir <https://github.com/DataistOS/www_dataist_ir>`_
-     - 0.0.2
-     - 10%
+     - 0.0.4
+     - 15%
    * - 99
      - `chatrang <https://github.com/DataistOS/chatrang>`_
      - 0.0.1
@@ -447,7 +447,7 @@ Tool Status Checklist
      - 15%
 .. admonition:: Dataist Distribution Health
 
-   Overall Ecosystem Progress: **8.8%**
+   Overall Ecosystem Progress: **8.9%**
 
 Category Breakdown
 ------------------
@@ -467,5 +467,5 @@ Category Breakdown
 - **Games**: 5.0%
 - **Sahand**: 5.0%
 - **Localization**: 5.0%
-- **Services**: 10.0%
+- **Services**: 12.5%
 - **Script**: 15.0%
