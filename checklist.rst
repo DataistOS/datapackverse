@@ -43,8 +43,8 @@ Tool Status Checklist
      - 5%
    * - 9
      - `bon <https://github.com/DataistOS/bon>`_
-     - 0.0.1
-     - 5%
+     - 0.1.0
+     - 30%
    * - 10
      - `code_jadimotion <https://github.com/DataistOS/code_jadimotion>`_
      - 0.0.1
@@ -91,7 +91,7 @@ Tool Status Checklist
      - 5%
    * - 21
      - `datapackverse <https://github.com/DataistOS/datapackverse>`_
-     - 0.2.7
+     - 0.2.8
      - 40%
    * - 22
      - `datasync <https://github.com/DataistOS/datasync>`_
@@ -119,7 +119,7 @@ Tool Status Checklist
      - 5%
    * - 28
      - `dpic <https://github.com/DataistOS/dpic>`_
-     - 0.5.2
+     - 0.5.3
      - 70%
    * - 29
      - `dpos <https://github.com/DataistOS/dpos>`_
@@ -447,7 +447,7 @@ Tool Status Checklist
      - 15%
 .. admonition:: Dataist Distribution Health
 
-   Overall Ecosystem Progress: **8.9%**
+   Overall Ecosystem Progress: **9.1%**
 
 Category Breakdown
 ------------------
@@ -458,7 +458,7 @@ Category Breakdown
 - **Dataist**: 8.9%
 - **Extensions**: 5.0%
 - **Sima**: 13.3%
-- **Foundation**: 13.3%
+- **Foundation**: 21.7%
 - **Datavore**: 6.9%
 - **Damavand**: 5.0%
 - **Config**: 5.0%
