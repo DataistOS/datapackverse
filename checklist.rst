@@ -71,8 +71,8 @@ Tool Status Checklist
      - 5%
    * - 16
      - `dataflow <https://github.com/DataistOS/dataflow>`_
-     - 0.0.1
-     - 5%
+     - 0.1.0
+     - 30%
    * - 17
      - `dataism_art <https://github.com/DataistOS/dataism_art>`_
      - 0.0.1
@@ -91,7 +91,7 @@ Tool Status Checklist
      - 5%
    * - 21
      - `datapackverse <https://github.com/DataistOS/datapackverse>`_
-     - 0.2.8
+     - 0.2.9
      - 40%
    * - 22
      - `datasync <https://github.com/DataistOS/datasync>`_
@@ -167,8 +167,8 @@ Tool Status Checklist
      - 5%
    * - 40
      - `github <https://github.com/DataistOS/github>`_
-     - 0.0.1
-     - 5%
+     - 0.1.0
+     - 30%
    * - 41
      - `haftkhan <https://github.com/DataistOS/haftkhan>`_
      - 0.0.1
@@ -179,8 +179,8 @@ Tool Status Checklist
      - 5%
    * - 43
      - `hyperaryaland <https://github.com/DataistOS/hyperaryaland>`_
-     - 0.0.1
-     - 5%
+     - 0.1.0
+     - 30%
    * - 44
      - `idea_jadimotion <https://github.com/DataistOS/idea_jadimotion>`_
      - 0.0.1
@@ -211,8 +211,8 @@ Tool Status Checklist
      - 5%
    * - 51
      - `karan <https://github.com/DataistOS/karan>`_
-     - 0.0.1
-     - 5%
+     - 0.1.0
+     - 30%
    * - 52
      - `karnama <https://github.com/DataistOS/karnama>`_
      - 0.0.1
@@ -447,13 +447,13 @@ Tool Status Checklist
      - 15%
 .. admonition:: Dataist Distribution Health
 
-   Overall Ecosystem Progress: **9.1%**
+   Overall Ecosystem Progress: **10.0%**
 
 Category Breakdown
 ------------------
 
 - **Auzar**: 10.0%
-- **SSOT**: 18.8%
+- **SSOT**: 22.9%
 - **Startup**: 5.7%
 - **Dataist**: 8.9%
 - **Extensions**: 5.0%
@@ -461,7 +461,7 @@ Category Breakdown
 - **Foundation**: 21.7%
 - **Datavore**: 6.9%
 - **Damavand**: 5.0%
-- **Config**: 5.0%
+- **Config**: 17.5%
 - **Dataist Box**: 5.0%
 - **Citizenship**: 30.0%
 - **Games**: 5.0%
