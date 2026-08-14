@@ -19,8 +19,8 @@ Tool Status Checklist
      - 10%
    * - 3
      - `asha <https://github.com/DataistOS/asha>`_
-     - 0.1.9
-     - 30%
+     - 0.2.0
+     - 40%
    * - 4
      - `avand <https://github.com/DataistOS/avand>`_
      - 0.0.1
@@ -67,8 +67,8 @@ Tool Status Checklist
      - 30%
    * - 15
      - `databoss <https://github.com/DataistOS/databoss>`_
-     - 0.0.1
-     - 5%
+     - 0.1.0
+     - 30%
    * - 16
      - `dataflow <https://github.com/DataistOS/dataflow>`_
      - 0.1.0
@@ -91,8 +91,8 @@ Tool Status Checklist
      - 5%
    * - 21
      - `datapackverse <https://github.com/DataistOS/datapackverse>`_
-     - 0.2.9
-     - 40%
+     - 0.3.0
+     - 50%
    * - 22
      - `datasync <https://github.com/DataistOS/datasync>`_
      - 0.0.1
@@ -119,8 +119,8 @@ Tool Status Checklist
      - 5%
    * - 28
      - `dpic <https://github.com/DataistOS/dpic>`_
-     - 0.5.3
-     - 70%
+     - 0.6.1
+     - 80%
    * - 29
      - `dpos <https://github.com/DataistOS/dpos>`_
      - 0.0.1
@@ -166,8 +166,8 @@ Tool Status Checklist
      - 0.0.1
      - 5%
    * - 40
-     - `github <https://github.com/DataistOS/github>`_
-     - 0.1.0
+     - `.github <https://github.com/DataistOS/.github>`_
+     - 0.1.4
      - 30%
    * - 41
      - `haftkhan <https://github.com/DataistOS/haftkhan>`_
@@ -247,7 +247,7 @@ Tool Status Checklist
      - 5%
    * - 60
      - `my_estahban_city <https://github.com/DataistOS/my_estahban_city>`_
-     - 0.1.2
+     - 0.1.3
      - 30%
    * - 61
      - `negar <https://github.com/DataistOS/negar>`_
@@ -447,13 +447,13 @@ Tool Status Checklist
      - 15%
 .. admonition:: Dataist Distribution Health
 
-   Overall Ecosystem Progress: **10.0%**
+   Overall Ecosystem Progress: **10.5%**
 
 Category Breakdown
 ------------------
 
 - **Auzar**: 10.0%
-- **SSOT**: 22.9%
+- **SSOT**: 27.5%
 - **Startup**: 5.7%
 - **Dataist**: 8.9%
 - **Extensions**: 5.0%
