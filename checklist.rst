@@ -67,8 +67,8 @@ Tool Status Checklist
      - 30%
    * - 15
      - `databoss <https://github.com/DataistOS/databoss>`_
-     - 0.1.0
-     - 30%
+     - 0.2.0
+     - 40%
    * - 16
      - `dataflow <https://github.com/DataistOS/dataflow>`_
      - 0.1.0
@@ -91,7 +91,7 @@ Tool Status Checklist
      - 5%
    * - 21
      - `datapackverse <https://github.com/DataistOS/datapackverse>`_
-     - 0.3.0
+     - 0.3.1
      - 50%
    * - 22
      - `datasync <https://github.com/DataistOS/datasync>`_
@@ -119,7 +119,7 @@ Tool Status Checklist
      - 5%
    * - 28
      - `dpic <https://github.com/DataistOS/dpic>`_
-     - 0.6.1
+     - 0.6.2
      - 80%
    * - 29
      - `dpos <https://github.com/DataistOS/dpos>`_
@@ -131,8 +131,8 @@ Tool Status Checklist
      - 5%
    * - 31
      - `estahban_city <https://github.com/DataistOS/estahban_city>`_
-     - 0.1.0
-     - 30%
+     - 0.6.0
+     - 80%
    * - 32
      - `estelamat <https://github.com/DataistOS/estelamat>`_
      - 0.0.1
@@ -247,8 +247,8 @@ Tool Status Checklist
      - 5%
    * - 60
      - `my_estahban_city <https://github.com/DataistOS/my_estahban_city>`_
-     - 0.1.3
-     - 30%
+     - 0.5.2
+     - 70%
    * - 61
      - `negar <https://github.com/DataistOS/negar>`_
      - 0.0.1
@@ -311,7 +311,7 @@ Tool Status Checklist
      - 5%
    * - 76
      - `residname <https://github.com/DataistOS/residname>`_
-     - 0.1.0
+     - 0.1.1
      - 30%
    * - 77
      - `rokhdad <https://github.com/DataistOS/rokhdad>`_
@@ -447,13 +447,13 @@ Tool Status Checklist
      - 15%
 .. admonition:: Dataist Distribution Health
 
-   Overall Ecosystem Progress: **10.5%**
+   Overall Ecosystem Progress: **11.4%**
 
 Category Breakdown
 ------------------
 
 - **Auzar**: 10.0%
-- **SSOT**: 27.5%
+- **SSOT**: 28.3%
 - **Startup**: 5.7%
 - **Dataist**: 8.9%
 - **Extensions**: 5.0%
@@ -463,7 +463,7 @@ Category Breakdown
 - **Damavand**: 5.0%
 - **Config**: 17.5%
 - **Dataist Box**: 5.0%
-- **Citizenship**: 30.0%
+- **Citizenship**: 75.0%
 - **Games**: 5.0%
 - **Sahand**: 5.0%
 - **Localization**: 5.0%
