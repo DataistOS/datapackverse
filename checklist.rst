@@ -15,8 +15,8 @@ Tool Status Checklist
      - 30%
    * - 2
      - `argenix <https://github.com/DataistOS/argenix>`_
-     - 0.0.2
-     - 10%
+     - 0.0.3
+     - 15%
    * - 3
      - `asha <https://github.com/DataistOS/asha>`_
      - 0.2.0
@@ -91,7 +91,7 @@ Tool Status Checklist
      - 5%
    * - 21
      - `datapackverse <https://github.com/DataistOS/datapackverse>`_
-     - 0.3.2
+     - 0.3.3
      - 50%
    * - 22
      - `datasync <https://github.com/DataistOS/datasync>`_
@@ -131,7 +131,7 @@ Tool Status Checklist
      - 5%
    * - 31
      - `estahban_city <https://github.com/DataistOS/estahban_city>`_
-     - 0.6.1
+     - 0.6.4
      - 80%
    * - 32
      - `estelamat <https://github.com/DataistOS/estelamat>`_
@@ -247,7 +247,7 @@ Tool Status Checklist
      - 5%
    * - 60
      - `my_estahban_city <https://github.com/DataistOS/my_estahban_city>`_
-     - 0.5.3
+     - 0.5.5
      - 70%
    * - 61
      - `negar <https://github.com/DataistOS/negar>`_
@@ -447,13 +447,13 @@ Tool Status Checklist
      - 15%
 .. admonition:: Dataist Distribution Health
 
-   Overall Ecosystem Progress: **11.4%**
+   Overall Ecosystem Progress: **11.5%**
 
 Category Breakdown
 ------------------
 
 - **Auzar**: 10.0%
-- **SSOT**: 28.3%
+- **SSOT**: 28.8%
 - **Startup**: 5.7%
 - **Dataist**: 8.9%
 - **Extensions**: 5.0%
