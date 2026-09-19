@@ -91,7 +91,7 @@ Tool Status Checklist
      - 5%
    * - 21
      - `datapackverse <https://github.com/DataistOS/datapackverse>`_
-     - 0.3.3
+     - 0.3.4
      - 50%
    * - 22
      - `datasync <https://github.com/DataistOS/datasync>`_
@@ -247,8 +247,8 @@ Tool Status Checklist
      - 5%
    * - 60
      - `my_estahban_city <https://github.com/DataistOS/my_estahban_city>`_
-     - 0.5.5
-     - 70%
+     - 0.6.0
+     - 80%
    * - 61
      - `negar <https://github.com/DataistOS/negar>`_
      - 0.0.1
@@ -447,7 +447,7 @@ Tool Status Checklist
      - 15%
 .. admonition:: Dataist Distribution Health
 
-   Overall Ecosystem Progress: **11.5%**
+   Overall Ecosystem Progress: **11.6%**
 
 Category Breakdown
 ------------------
@@ -463,7 +463,7 @@ Category Breakdown
 - **Damavand**: 5.0%
 - **Config**: 17.5%
 - **Dataist Box**: 5.0%
-- **Citizenship**: 75.0%
+- **Citizenship**: 80.0%
 - **Games**: 5.0%
 - **Sahand**: 5.0%
 - **Localization**: 5.0%
