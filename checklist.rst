@@ -11,7 +11,7 @@ Tool Status Checklist
      - Progress
    * - 1
      - `adm <https://github.com/DataistOS/adm>`_
-     - 0.1.8
+     - 0.1.9
      - 30%
    * - 2
      - `argenix <https://github.com/DataistOS/argenix>`_
@@ -87,11 +87,11 @@ Tool Status Checklist
      - 5%
    * - 20
      - `datapack <https://github.com/DataistOS/datapack>`_
-     - 0.2.1
-     - 40%
+     - 0.3.0
+     - 50%
    * - 21
      - `datapackverse <https://github.com/DataistOS/datapackverse>`_
-     - 0.3.5
+     - 0.3.6
      - 50%
    * - 22
      - `datasync <https://github.com/DataistOS/datasync>`_
@@ -119,7 +119,7 @@ Tool Status Checklist
      - 5%
    * - 28
      - `dpic <https://github.com/DataistOS/dpic>`_
-     - 0.6.3
+     - 0.6.4
      - 80%
    * - 29
      - `dpos <https://github.com/DataistOS/dpos>`_
@@ -131,7 +131,7 @@ Tool Status Checklist
      - 5%
    * - 31
      - `estahban_city <https://github.com/DataistOS/estahban_city>`_
-     - 0.7.2
+     - 0.7.4
      - 90%
    * - 32
      - `estelamat <https://github.com/DataistOS/estelamat>`_
@@ -247,7 +247,7 @@ Tool Status Checklist
      - 5%
    * - 60
      - `my_estahban_city <https://github.com/DataistOS/my_estahban_city>`_
-     - 0.9.2
+     - 0.9.5
      - 90%
    * - 61
      - `negar <https://github.com/DataistOS/negar>`_
@@ -363,8 +363,8 @@ Tool Status Checklist
      - 5%
    * - 89
      - `upupa <https://github.com/DataistOS/upupa>`_
-     - 0.1.1
-     - 30%
+     - 0.3.1
+     - 50%
    * - 90
      - `vangah <https://github.com/DataistOS/vangah>`_
      - 0.0.1
@@ -399,8 +399,8 @@ Tool Status Checklist
      - 5%
    * - 98
      - `www_dataist_ir <https://github.com/DataistOS/www_dataist_ir>`_
-     - 0.0.4
-     - 15%
+     - 0.1.1
+     - 30%
    * - 99
      - `chatrang <https://github.com/DataistOS/chatrang>`_
      - 0.0.1
@@ -447,15 +447,15 @@ Tool Status Checklist
      - 15%
 .. admonition:: Dataist Distribution Health
 
-   Overall Ecosystem Progress: **12.1%**
+   Overall Ecosystem Progress: **12.5%**
 
 Category Breakdown
 ------------------
 
 - **Auzar**: 10.0%
 - **SSOT**: 28.8%
-- **Startup**: 5.7%
-- **Dataist**: 11.4%
+- **Startup**: 6.2%
+- **Dataist**: 12.1%
 - **Extensions**: 5.0%
 - **Sima**: 13.3%
 - **Foundation**: 21.7%
@@ -467,5 +467,5 @@ Category Breakdown
 - **Games**: 5.0%
 - **Sahand**: 5.0%
 - **Localization**: 5.0%
-- **Services**: 12.5%
+- **Services**: 20.0%
 - **Script**: 15.0%
